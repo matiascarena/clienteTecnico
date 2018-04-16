@@ -2,7 +2,7 @@
 -- CONTACT INFORMATION CLIENT
 -------------------------
 
-CREATE TABLE contact_information_client (
+CREATE TABLE contact_information (
         name                       text,
 	ID                         text,
 	email                      text,
