@@ -1,4 +1,4 @@
--technical
+-TECHNICAL
 -------------------------
 
 CREATE TABLE technical (
