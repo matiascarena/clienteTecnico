@@ -1,4 +1,4 @@
-CREATE TABLE cliente (
+CREATE TABLE cliente.ddl (
 	ID                           integer PRIMARY KEY,
 	name                          text NOT NULL,
 	surname                       text NOT NULL,
