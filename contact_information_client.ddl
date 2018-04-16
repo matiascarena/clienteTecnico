@@ -3,7 +3,7 @@
 -------------------------
 
 CREATE TABLE contact_information_client (
-  name                       text,
+        name                       text,
 	ID                         text,
 	email                      text,
 	address                    text
