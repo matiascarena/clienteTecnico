@@ -1,3 +1,9 @@
+-------------------------
+-- CLIENT
+-------------------------
+
+
+
 CREATE TABLE cliente.ddl (
 	ID                            integer PRIMARY KEY,
 	name                          text NOT NULL,
