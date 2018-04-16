@@ -1,5 +1,5 @@
 -------------------------
--- CONTACT INFORMATION CLIENT
+-- CONTACT INFORMATION 
 -------------------------
 
 CREATE TABLE contact_information (
